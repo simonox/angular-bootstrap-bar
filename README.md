@@ -122,6 +122,6 @@ Und die gemixten Drinks können ausgetrunken werden.
 	      <!-- drinkUp -->
 	      <a class="btn" ng-click="drinkUp()" href="#">Drink up &raquo;</a>
 	    </p>
-</div>
+	</div>
 
 Somit haben wir unseren gewünschten Use Case umgesetzt.
