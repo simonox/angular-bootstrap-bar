@@ -10,7 +10,7 @@ Ein Barkeeper soll Getränke mixen. Genauer gesagt: Wenn ich bei einem Barkeeper
 
 Technologie
 -----------
-Neben AgnularJS kommt BootStrap zum Einsatz, wie aktuell bei allen Projekten, wo man keine Zeit für ein eigenes Design investieren möchte.
+Neben AngularJS kommt BootStrap zum Einsatz, wie aktuell bei allen Projekten, wo man keine Zeit für ein eigenes Design investieren möchte.
 
 Und in echt?
 ------------
